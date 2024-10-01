@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Perivo
+- 👋 Hi, I’m @Ivo Pereira
 - 👀 I’m interested in **Blockchain & Cyber Security**
 - 🌱 I’m currently learning Solidity and Rust
 - 💞️ I’m looking to collaborate on any Ethereum Blockchain Project
